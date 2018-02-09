@@ -1,0 +1,1 @@
+INSERT INTO online_service (id, online_username, online_online_type, online_phone, online_address, online_time, online_status, "online_Order_time") VALUES (?, ?, ?, ?, ?, ?, ?, ?)
